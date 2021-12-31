@@ -1,8 +1,8 @@
 {
-  "name": "s4-react-test",
+  "name": "infinite carousel",
   "version": "1.0.0",
   "private": true,
-  "repository": "git@scm.starbucks.com:dea-web/s4-react-test.git",
+  "repository": "https://github.com/liamkande/infiniteCarosel.git",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
@@ -29,6 +29,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": ".",
   "browserslist": {
     "production": [
       ">0.2%",
